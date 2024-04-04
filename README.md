@@ -1,2 +1,2 @@
-# Clinical-E.-cloacae-and-global-analysis
+# Enterobacter spp. from blood samples and global-analysis
 Code and public data available for Rodrigues et al., XXXX 
